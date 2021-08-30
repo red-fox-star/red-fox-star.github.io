@@ -28,6 +28,7 @@ plugins:
 
 header_pages:
   - pages/ttgo_watch/index.md
+  - pages/muteme/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
